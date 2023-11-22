@@ -1,0 +1,5 @@
+Language: Cpp
+BasedOnStyle: Google
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortBlocksOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: None

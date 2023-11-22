@@ -1,8 +1,6 @@
-#include "shape.h"
+#include <test.h>
 
 int main() {
-  shape::Rectangle rect(10, 30);
-  rect.Print();
-
-  return 0;
+  const test::Test test;
+  test.test();
 }
